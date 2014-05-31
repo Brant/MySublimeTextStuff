@@ -1,4 +1,9 @@
 MySublimeTextStuff
 ==================
 
-User folder - ~/Library/Application Support/Sublime Text 2/Packages/User
+## Installation
+
+Pull repo to user folder
+```
+~/Library/Application Support/Sublime Text 2/Packages/User
+```
