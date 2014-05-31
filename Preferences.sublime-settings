@@ -32,6 +32,6 @@
 	"soda_classic_tabs": false,
 	"soda_folder_icons": true,
 	"tab_size": 3,
-	"theme": "Soda Light 3.sublime-theme",
-	"word_wrap": false
+	"word_wrap": false,
+	"theme": "predawn.sublime-theme"
 }
