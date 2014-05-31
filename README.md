@@ -1,7 +1,11 @@
 MySublimeTextStuff
 ==================
 
-User folder - ~/Library/Application Support/Sublime Text 3/Packages/User
+## Installation
+Pull repo into User folder: 
+```
+~/Library/Application Support/Sublime Text 3/Packages/User
+```
 
 ## Things I tend to install
 	
