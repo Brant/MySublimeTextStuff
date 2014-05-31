@@ -1,24 +1,18 @@
 MySublimeTextStuff
 ==================
 
-User folder - ~/Library/Application Support/Sublime Text 2/Packages/User
+User folder - ~/Library/Application Support/Sublime Text 3/Packages/User
 
-
-## Things I tend to install:
-
-- AAAPackageDev
-- AdvancedNewFile
-- Autoprefixer
-- Base16 Color Schemes
-- Djaneiro
-- DocBlockr
-- Dotfiles Syntax Highlighting
-- EditorConfig
-- Package Control
-- Predawn
-- SideBarEnhancements
-- SublimeCodeIntel
-- SublimeLinter
-- Terminal
-- Theme - Soda
-- Tomorrow Color Scheme
+## Things I tend to install
+	
+- AdvancedNewFile"
+- Djaneiro"
+- DocBlockr"
+- Dotfiles Syntax Highlighting"
+- EditorConfig"
+- SideBarEnhancements"
+- SublimeCodeIntel"
+- SublimeLinter"
+- Terminal"
+- Theme - Soda"
+- Tomorrow Color Schemes
