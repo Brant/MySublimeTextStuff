@@ -1,6 +1,9 @@
 MySublimeTextStuff
 ==================
 
+## Prerequisites:
+- (jshint)[http://www.jshint.com/install/]
+
 ## Installation
 Pull repo into User folder: 
 ```
@@ -18,6 +21,7 @@ Pull repo into User folder:
 - SideBarEnhancements
 - SublimeCodeIntel
 - SublimeLinter
+	- SublimeLinter - jshint
 - Terminal
 - Theme - Soda
 - Tomorrow Color Schemes
