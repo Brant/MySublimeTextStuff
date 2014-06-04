@@ -2,7 +2,7 @@ MySublimeTextStuff
 ==================
 
 ## Prerequisites:
-- (jshint)[http://www.jshint.com/install/]
+- [jshint](http://www.jshint.com/install/)
 
 ## Installation
 Pull repo into User folder: 
