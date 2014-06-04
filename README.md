@@ -14,6 +14,7 @@ Pull repo into User folder:
 - DocBlockr
 - Dotfiles Syntax Highlighting
 - EditorConfig
+- Predawn
 - SideBarEnhancements
 - SublimeCodeIntel
 - SublimeLinter
