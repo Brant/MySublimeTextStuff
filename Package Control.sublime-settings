@@ -10,6 +10,11 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-pylint",
 		"Terminal",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
