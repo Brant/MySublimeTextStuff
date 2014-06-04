@@ -1,14 +1,18 @@
 MySublimeTextStuff
 ==================
 
+## Prerequisites:
+- [flake8](http://flake8.readthedocs.org/en/latest/) - to install: ```pip install flake8```
+- [jshint](http://www.jshint.com/install/) - to install: ```npm install -g jshint```
+- [csslint](https://github.com/SublimeLinter/SublimeLinter-csslint) - to install: ```npm install -g csslint```
+
 ## Installation
 Pull repo into User folder: 
 ```
 ~/Library/Application Support/Sublime Text 3/Packages/User
 ```
 
-## Things I tend to install
-	
+## Things I tend to install	
 - AdvancedNewFile
 - Djaneiro
 - DocBlockr
@@ -18,6 +22,7 @@ Pull repo into User folder:
 - SideBarEnhancements
 - SublimeCodeIntel
 - SublimeLinter
+	- SublimeLinter - jshint
 - Terminal
 - Theme - Soda
 - Tomorrow Color Schemes
