@@ -2,8 +2,9 @@ MySublimeTextStuff
 ==================
 
 ## Prerequisites:
-- [jshint](http://www.jshint.com/install/)
-- [flake8](http://flake8.readthedocs.org/en/latest/)
+- [flake8](http://flake8.readthedocs.org/en/latest/): ```pip install flake8```
+- [jshint](http://www.jshint.com/install/): ```npm install -g jshint```
+- [csslint](https://github.com/SublimeLinter/SublimeLinter-csslint): ```npm install -g csslint```
 
 ## Installation
 Pull repo into User folder: 
