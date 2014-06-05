@@ -26,6 +26,7 @@ Pull repo into User folder:
 - SublimeLinter-csslint
 - SublimeLinter-flake8
 - SublimeLinter-jshint
+- SublimeLinter-json
 - SublimeLinter-php
 - Terminal
 - Theme - Soda
