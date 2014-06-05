@@ -14,6 +14,7 @@ Pull repo into User folder:
 
 ## Things I tend to install	
 - AdvancedNewFile
+- All Autocomplete
 - Djaneiro
 - DocBlockr
 - Dotfiles Syntax Highlighting
@@ -22,7 +23,10 @@ Pull repo into User folder:
 - SideBarEnhancements
 - SublimeCodeIntel
 - SublimeLinter
-	- SublimeLinter - jshint
+- SublimeLinter-csslint
+- SublimeLinter-flake8
+- SublimeLinter-jshint
+- SublimeLinter-php
 - Terminal
 - Theme - Soda
-- Tomorrow Color Schemes
+- Tomorrow Color Scheme
