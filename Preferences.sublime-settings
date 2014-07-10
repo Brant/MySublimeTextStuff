@@ -7,20 +7,29 @@
 	"drag_text": false,
 	"draw_minimap_border": false,
 	"enable_tab_scrolling": false,
-	"font_face": "Source Code Pro",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"env"
+	],
+	"font_face": "M+ 1m light",
+	// "font_face": "Source Code Pro",
 	"font_options":
 	[
 		"no_round"
 	],
-	"font_size": 14.0,
+	"font_size": 15.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": true,
