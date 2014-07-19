@@ -1,0 +1,40 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			//application 1
+			{
+				"caption": "Photoshop",
+				"id": "side-bar-files-open-with-photoshop",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Adobe Photoshop CS6.app", // OSX
+									"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			//application 2
+			{
+				"caption": "Illustrator",
+				"id": "side-bar-files-open-with-illustrator",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Adobe Illustrator.app", // OSX
+									"extensions":"svg|ai"  //any file with these extensions
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			//separator
+			{"caption":"-"},
+
+			
+		]
+	}
+]
