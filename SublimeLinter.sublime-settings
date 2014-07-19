@@ -22,7 +22,7 @@
                 "excludes": [],
                 "ignore": "",
                 "max-complexity": -1,
-                "max-line-length": 160,
+                "max-line-length": 240,
                 "select": ""
             },
             "jshint": {

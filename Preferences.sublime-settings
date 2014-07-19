@@ -15,7 +15,8 @@
 		"CVS",
 		"env"
 	],
-	"font_face": "M+ 1m light",
+	// "font_face": "M+ 1m light",
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"no_round"
