@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
+		"txt",
 		"txt"
 	],
 	"word_wrap": true
