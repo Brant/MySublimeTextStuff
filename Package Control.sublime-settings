@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -7,9 +10,10 @@
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
+		"Highlight",
+		"Package Control",
 		"Predawn",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
